@@ -1,5 +1,5 @@
 {
-  "name": "Video-Con",
+  "name": "video-con-app",
   "version": "1.0.0",
   "description": "A video conference/chat application built using React.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnkitaxPriya/Video-Con.git"
+    "url": "git+https://github.com/AnkitaxPriya/video-con-app.git"
   },
   "keywords": [],
   "author": "",
